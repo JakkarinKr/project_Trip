@@ -1,0 +1,51 @@
+.container{
+    max-width: 1950px;
+    min-height: 400px;
+    background-image:linear-gradient(to right,#06120e,#0c241d);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box{
+    padding: 5rem 5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+    width: 30%;
+}
+.about{
+    width: 50%;
+}
+.about h1{
+    margin-bottom: 1rem;
+    color: #FAF3E1;
+}
+.about p{
+    color: #FAF3E1;
+}
+.project_list h3{
+    margin: 1rem 0;
+    color: #FAF3E1;
+}
+.project_list h6{
+    margin: 1rem 0;
+    color: #FAF3E1;
+}
+.icon_bar{
+    width:70%;
+    height:90px;
+    border-top: 2px solid #FAF3E1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon_bar i{
+    font-size: 30px;
+    height:100%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FAF3E1;
+}

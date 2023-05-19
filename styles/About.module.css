@@ -1,0 +1,16 @@
+.container{
+    max-width: 100vw;
+    min-height: 90vh;
+    background: #faf3e1;
+    padding: 5rem 20%;
+}
+.title{
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #a46a59;
+}
+.box{
+    text-align:start;
+    margin-top: 3rem;
+    text-indent: 50px;
+}
